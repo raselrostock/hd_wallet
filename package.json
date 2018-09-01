@@ -1,0 +1,30 @@
+{
+  "name": "hd_wallet",
+  "version": "1.0.0",
+  "description": "A HD Wallet",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raselrostock/hd_wallet.git"
+  },
+  "keywords": [
+    "HD",
+    "Wallet"
+  ],
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "truffle-hdwallet-provider": "0.0.5"
+  },
+  "author": "raselrostock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raselrostock/hd_wallet/issues"
+  },
+  "homepage": "https://github.com/raselrostock/hd_wallet#readme"
+}
